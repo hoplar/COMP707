@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Selenium.dll
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pc\source\repos\Selenium\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Users\pc\source\repos\Selenium\Selenium\obj\Debug\Selenium.dll
+C:\Users\pc\source\repos\Selenium\Selenium\obj\Debug\Selenium.pdb
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\pc\source\repos\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
